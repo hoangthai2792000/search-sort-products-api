@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Samsung Galaxy Z Flip4 5G",
+    "price": 50,
+    "brand": "Samsung",
+    "rating": 4
+  },
+  {
+    "name": "iPhone 11",
+    "price": 100,
+    "brand": "Apple",
+    "rating": 5
+  },
+  {
+    "name": "Xiaomi Redmi Note 11",
+    "price": 25,
+    "brand": "Xiaomi",
+    "rating": 4.9
+  },
+  {
+    "name": "Samsung Galaxy S22 Ultra 5G",
+    "price": 125,
+    "brand": "Samsung",
+    "rating": 4.8
+  },
+  {
+    "name": "Xiaomi Redmi Note 11S series",
+    "price": 40,
+    "brand": "Xiaomi",
+    "rating": 4.6
+  },
+  {
+    "name": "iPhone 13 Pro Max",
+    "price": 42,
+    "brand": "Apple",
+    "rating": 4.55
+  },
+  {
+    "name": "Samsung Galaxy A23",
+    "price": 23,
+    "brand": "Samsung"
+  },
+  {
+    "name": "OPPO Reno8 series",
+    "price": 59,
+    "featured": true,
+    "brand": "Oppo"
+  },
+  {
+    "name": "OPPO A55",
+    "price": 39,
+    "featured": true,
+    "brand": "Oppo"
+  },
+
+  {
+    "name": "iPhone 14 Pro Max",
+    "price": 99,
+    "brand": "Apple"
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "price": 31,
+    "featured": true,
+    "brand": "Apple"
+  },
+  {
+    "name": "OPPO Find X5 Pro 5G",
+    "price": 30,
+    "brand": "Oppo"
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "price": 30,
+    "brand": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold3 5G",
+    "price": 109,
+    "brand": "Samsung"
+  },
+  {
+    "name": "Xiaomi 12 series",
+    "price": 129,
+    "brand": "Xiaomi"
+  },
+  {
+    "name": "Xiaomi 11T Pro 5G",
+    "price": 15,
+    "brand": "Xiaomi"
+  },
+  {
+    "name": "OPPO Reno6 series",
+    "price": 79,
+    "featured": true,
+    "brand": "Oppo"
+  },
+  {
+    "name": "iPhone SE 64GB (2022)",
+    "price": 120,
+    "featured": true,
+    "brand": "Apple"
+  },
+  {
+    "name": "Samsung Galaxy M53",
+    "price": 25,
+    "brand": "Samsung"
+  },
+  {
+    "name": "Xiaomi 11T",
+    "price": 15,
+    "brand": "Xiaomi"
+  },
+  {
+    "name": "OPPO Reno7 series",
+    "price": 40,
+    "brand": "Oppo"
+  },
+  {
+    "name": "Xiaomi 11 Lite 5G NE",
+    "price": 23,
+    "featured": true,
+    "brand": "Xiaomi"
+  },
+  {
+    "name": "Samsung Galaxy A53 5G",
+    "price": 23,
+    "featured": true,
+    "brand": "Samsung"
+  }
+]
